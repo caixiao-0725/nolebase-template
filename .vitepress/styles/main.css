@@ -275,8 +275,3 @@ html, body {
   color: white;
   background-color: #4b4b4b;
 }
-
-iframe {
-  width: 540px; /* 宽度占满父容器 */
-  height: 405px; /* 16:9 宽高比 */
-}
