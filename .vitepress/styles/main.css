@@ -278,4 +278,5 @@ html, body {
 
 iframe {
   width: 100%; /* 宽度占满父容器 */
+  height: 56.25% /* 16:9 宽高比 */
 }
