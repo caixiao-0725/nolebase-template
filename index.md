@@ -18,18 +18,18 @@ hero:
       text: GitHub 上浏览
       link: https://github.com/caixiao-0725/nolebase-template
 features:
-  - title: 多样的主题和内容
-    details: 本知识库和所生成的页面均由创作者们维护，涉及到生活中各方面知识和内容，也不乏我们的回忆和畅想。
-    icon: 🌈
-  - title: 皆为 Markdown
-    details: 使用 Markdown 和 Markdown 拓展语法编写和记录笔记，每一个页面都是 Markdown 文件。
-    icon: 📃
-  - title: 由 VitePress 驱动
-    details: 基于 Vite 的强大静态文档页面生成器，它生成了我们知识库的页面，提供了简单易用的主题和工具。
-    icon: 🚀
-  - title: 由 Obsidian 驱动
-    details: 强大的知识库管理工具，支持花样繁多的插件和拓展，让知识管理变得更加简单。
-    icon: 🗃
+  - title: 锻炼身体
+    details: 分享长跑距离和配速，争取做半马选手。记录体重，他妈的能不能减下来？
+    icon: 🏃‍♂️
+  - title: 载歌载舞
+    details: 分享歌曲听后感以及视频观后感，感觉来了直接自己录唱歌视频。
+    icon: 🎵
+  - title: code修炼手册
+    details: 记录工作过程中碰到的问题以及解决的方法，详细描述抓狂的心态。
+    icon: 👨‍💻
+  - title: 三省吾身
+    details: 分享对生命的感悟，每日复盘，争取做更好的人。
+    icon: 🧘‍♂️
 ---
 
 <HomePage />
