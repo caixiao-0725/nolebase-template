@@ -8,8 +8,8 @@ hero:
   text: 愿到最后我能知道锻炼里的意义
   tagline: 
   image:
-    src: /图片/thekey.jpg
-    #alt: Vitest
+    src: /thekey.jpg
+    alt: Vitest
   actions:
     - theme: brand
       text: 开始阅读
