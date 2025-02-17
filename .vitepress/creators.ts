@@ -20,30 +20,16 @@ const getAvatarUrl = (name: string) => `https://github.com/${name}.png`
 
 export const creators: Creator[] = [
   {
-    name: '絢香猫',
+    name: 'c叉',
     avatar: '',
-    username: 'nekomeowww',
+    username: 'chengxiao',
     title: 'Chin-up 原始创作者',
-    desc: '开发者，专注于基础设施维护，数据分析，后端、DevOps 开发',
+    desc: '开发者，专注于基础设施维护，图形学爱好者，守望先锋骨灰玩家',
     links: [
-      { type: 'github', icon: 'github', link: 'https://github.com/nekomeowww' },
-      { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/ayakaneko' },
+      { type: 'github', icon: 'github', link: 'https://github.com/caixiao-0725' },
     ],
-    nameAliases: ['nekomeowww', '绚香猫', '絢香猫', 'Neko Ayaka', 'Ayaka Neko'],
-    emailAliases: ['neko@ayaka.moe'],
-  },
-  {
-    name: '絢香音',
-    avatar: '',
-    username: 'LittleSound',
-    title: 'Chin-up 原始创作者',
-    desc: '开源开发者，专注于前端，以及前端相关工具库和工具链开发',
-    links: [
-      { type: 'github', icon: 'github', link: 'https://github.com/LittleSound' },
-      { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/OikawaRizumu' },
-    ],
-    nameAliases: ['LittleSound', '绚香音', '絢香音', 'Rizumu Oikawa', 'Rizumu Ayaka', 'Ayaka Rizumu', 'Rizumu'],
-    emailAliases: ['rizumu@ayaka.moe', 'rizumu@oqo.moe'],
+    nameAliases: ['chengxiao', '成啸', 'c叉'],
+    emailAliases: ['1030418887@qq.com'],
   },
 ].map<Creator>((c) => {
   c.avatar = c.avatar || getAvatarUrl(c.username)

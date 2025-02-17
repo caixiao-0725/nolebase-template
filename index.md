@@ -4,9 +4,9 @@ sidebar: false
 title: Chin-up
 titleTemplate: 愿到最后我能知道锻炼里的意义
 hero:
-  name: g~Nj$3J2^
-  text: 记录回忆，知识和畅想的地方
-  tagline: 以 Chin-up 为名，读作 nole-base，取自意为「知识」的昆雅语 nólë 和意为「基础」的英文 base，即「知识库」
+  name: Chin  up
+  text: 愿到最后我能知道锻炼里的意义
+  tagline: 
   image:
     src: /logo.svg
     alt: Vitest
