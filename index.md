@@ -9,7 +9,7 @@ hero:
   tagline: 
   image:
     src: /图片/thekey.jpg
-    alt: Vitest
+    #alt: Vitest
   actions:
     - theme: brand
       text: 开始阅读
