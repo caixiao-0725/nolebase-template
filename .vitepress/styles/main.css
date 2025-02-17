@@ -278,5 +278,4 @@ html, body {
 
 iframe {
   width: 100%; /* 宽度占满父容器 */
-  padding-top: 56.25%; /* 高度为宽度的56% */
 }
