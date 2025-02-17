@@ -275,3 +275,8 @@ html, body {
   color: white;
   background-color: #4b4b4b;
 }
+
+iframe {
+  width: 100%; /* 宽度占满父容器 */
+  height: 56.25vw; /* 高度为视口宽度的56.25%，保持16:9比例 */
+}
