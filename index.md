@@ -8,18 +8,15 @@ hero:
   text: 愿到最后我能知道锻炼里的意义
   tagline: 
   image:
-    src: /logo.svg
+    src: /图片/thekey.jpg
     alt: Vitest
   actions:
     - theme: brand
       text: 开始阅读
       link: /笔记/index
     - theme: alt
-      text: 加入 Discord 服务器
-      link: https://discord.gg/XuNFDcDZGj
-    - theme: alt
       text: GitHub 上浏览
-      link: https://github.com/nolebase/nolebase
+      link: https://github.com/caixiao-0725/nolebase-template
 features:
   - title: 多样的主题和内容
     details: 本知识库和所生成的页面均由创作者们维护，涉及到生活中各方面知识和内容，也不乏我们的回忆和畅想。
