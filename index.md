@@ -8,7 +8,7 @@ hero:
   text: 愿到最后我能知道锻炼里的意义
   tagline: 
   image:
-    src: /thekey.jpg
+    src: /chinup.jpg
     alt: Vitest
   actions:
     - theme: brand
