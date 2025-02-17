@@ -1,7 +1,7 @@
 ---
 layout: home
 sidebar: false
-title: Chin-up
+title: Chin up
 titleTemplate: 愿到最后我能知道锻炼里的意义
 hero:
   name: Chin  up
