@@ -22,7 +22,7 @@ export const creators: Creator[] = [
   {
     name: '阿啸',
     avatar: '',
-    username: 'chengxiao',
+    username: 'caixiao-0725',
     title: 'Chin up 原始创作者',
     desc: '陈奕迅fans，图形学爱好者，守望先锋骨灰玩家',
     links: [
