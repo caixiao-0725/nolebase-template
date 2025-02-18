@@ -15,6 +15,9 @@ hero:
       text: 开始阅读
       link: /笔记/index
     - theme: alt
+      text: 食用说明
+      link: /笔记/使用教程/1.Git 拉取代码库  
+    - theme: alt
       text: GitHub 上浏览
       link: https://github.com/caixiao-0725/nolebase-template
 features:
