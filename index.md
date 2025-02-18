@@ -14,7 +14,7 @@ hero:
     - theme: brand
       text: 开始阅读
       link: /笔记/index
-    - theme: alt
+    - theme: tip
       text: 食用说明
       link: /笔记/使用教程/1.Git 拉取代码库  
     - theme: alt
