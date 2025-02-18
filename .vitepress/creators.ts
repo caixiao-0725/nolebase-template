@@ -20,7 +20,7 @@ const getAvatarUrl = (name: string) => `https://github.com/${name}.png`
 
 export const creators: Creator[] = [
   {
-    name: 'c叉',
+    name: '阿啸',
     avatar: '',
     username: 'chengxiao',
     title: 'Chin up 原始创作者',
@@ -30,6 +30,18 @@ export const creators: Creator[] = [
     ],
     nameAliases: ['chengxiao', '成啸', 'c叉'],
     emailAliases: ['1030418887@qq.com'],
+  },
+  {
+    name: '阿璇',
+    avatar: '',
+    username: 'ZiXuanVickyLu',
+    title: 'Chin up 原始创作者',
+    desc: '自己到仓库里的.vitepress/creators.ts文件里添加自己的信息',
+    links: [
+      { type: 'github', icon: 'github', link: 'https://github.com/ZiXuanVickyLu' },
+    ],
+    nameAliases: ['ZiXuanVickyLu', '卢子璇', 'c叉'],
+    emailAliases: ['birdpeople1984@gmail.com'],
   },
 ].map<Creator>((c) => {
   c.avatar = c.avatar || getAvatarUrl(c.username)
