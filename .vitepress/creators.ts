@@ -36,11 +36,11 @@ export const creators: Creator[] = [
     avatar: '',
     username: 'ZiXuanVickyLu',
     title: 'Chin up 原始创作者',
-    desc: '自己到仓库里的.vitepress/creators.ts文件里添加自己的信息',
+    desc: '到仓库里的.vitepress/creators.ts文件里添加自己的信息',
     links: [
       { type: 'github', icon: 'github', link: 'https://github.com/ZiXuanVickyLu' },
     ],
-    nameAliases: ['ZiXuanVickyLu', '卢子璇', 'c叉'],
+    nameAliases: ['ZiXuanVickyLu', '卢子璇'],
     emailAliases: ['birdpeople1984@gmail.com'],
   },
 ].map<Creator>((c) => {

@@ -18,8 +18,8 @@ hero:
       text: 食用说明
       link: /笔记/使用教程/1.Git 拉取代码库  
     - theme: alt
-      text: GitHub 上浏览
-      link: https://github.com/caixiao-0725/nolebase-template
+      text: 神秘礼物
+      link: https://github.com/caixiao-0725/love
 features:
   - title: 锻炼身体
     details: 分享长跑距离和配速，争取做半马选手。记录体重，他妈的能不能减下来？
